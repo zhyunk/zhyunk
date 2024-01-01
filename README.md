@@ -1,13 +1,20 @@
-
-<div align=center>
+<div align="center">
   <a href="https://github.com/zhyunk">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Hi%20!%20🐵&fontSize=60&animation=twinkling"/>
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Hi%20!%20🐵&fontSize=60&animation=twinkling"/>    
+  </a>
+</div>
+
+<br><br>
+
+<!--
+<div>
+  <a href="https://github.com/zhyunk">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=👈&fontAlign=75&fontAlignY=345&fontSize=60&animation=fadeIn&rotate=-50"/>
   </a>
 </div>
 
 <br>
-<br>
-
+-->
 <!--
 <div align="center">
   <a href="https://solved.ac/zhyun/">
@@ -18,8 +25,16 @@
 -->
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&theme=calm_pink&hide_border=true&count_private=true&include_all_commits=true&langs_count=10&size_weight=0.2&count_weight=0.8&hide=kotlin&card_width=200" height="340px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&theme=calm_pink&layout=pie&hide_progress=true&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&langs_count=6&size_weight=0.2&count_weight=0.8&hide=kotlin" height="340px"/></a>
+  <!--<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&theme=calm_pink&hide_border=true&count_private=true&include_all_commits=true&langs_count=5&size_weight=0.2&count_weight=0.8&hide=kotlin&card_width=200" height="340px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&theme=calm_pink&layout=pie&hide_progress=true&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&langs_count=5&card_width=340&size_weight=0.2&count_weight=0.8&hide=kotlin" height="340px"/></a>-->
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&langs_count=5&size_weight=0.2&count_weight=0.8&hide=kotlin&card_width=200" height="340px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&theme=github_dark&layout=pie&hide_progress=true&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&langs_count=5&card_width=340&size_weight=0.2&count_weight=0.8&hide=kotlin" height="340px"/></a>
+</div>
+
+<br>
+
+<div align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&theme=github_dark&custom_title=Waka%20Time&hide_border=true"/></a>
 </div>
 
 <br><br>
