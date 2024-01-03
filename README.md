@@ -24,17 +24,18 @@
 <br>
 -->
 
-<div align="center">
+### [Most Used Languages](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
   <!--<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&theme=calm_pink&hide_border=true&count_private=true&include_all_commits=true&langs_count=5&size_weight=0.2&count_weight=0.8&hide=kotlin&card_width=200" height="340px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&theme=calm_pink&layout=pie&hide_progress=true&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&langs_count=5&card_width=340&size_weight=0.2&count_weight=0.8&hide=kotlin" height="340px"/></a>-->
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&langs_count=5&size_weight=0.2&count_weight=0.8&hide=kotlin&card_width=200" height="340px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&theme=github_dark&layout=pie&hide_progress=true&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&langs_count=5&card_width=340&size_weight=0.2&count_weight=0.8&hide=kotlin" height="340px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&theme=github_dark&hide_title=true&layout=pie&hide_border=true&count_private=true&include_all_commits=true&langs_count=5&size_weight=0.2&count_weight=0.8&hide=kotlin&card_width=400" height="340px"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&theme=github_dark&hide_title=false&custom_title=%20&hide_border=true&count_private=true&include_all_commits=true&langs_count=5&size_weight=0.2&count_weight=0.8&hide=kotlin&card_width=330" height="340px"/></a>
 </div>
 
 <br>
 
+### [Waka Time](https://github.com/anuraghazra/github-readme-stats)
 <div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&theme=github_dark&custom_title=Waka%20Time&hide_border=true"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&theme=github_dark&hide_title=true&hide_border=true"/></a>
 </div>
 
 <br><br>
