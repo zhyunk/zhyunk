@@ -107,5 +107,5 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer" />
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=footer&text=🦆-nl-&fontSize=40&fontAlign=92" /></a>
 </div>
