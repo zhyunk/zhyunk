@@ -26,7 +26,9 @@
 
 <br>
 
-<h3 align="center"><a href="https://github.com/zhyun-project">프로젝트 소개</a></h3>
+<details>
+<summary align="center"><h3>프로젝트 소개<a href="https://github.com/zhyun-project">🔗</a></h3></summary>
+
 <details>
 <summary><h3>simple-board</h3></summary>
 
@@ -115,6 +117,10 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 
 
 </details>
+</details>
+
+<br>
+<hr>
 
 
 <div align="center">
