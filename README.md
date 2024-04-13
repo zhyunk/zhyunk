@@ -140,6 +140,13 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 <br>
 <br>
 
+### [My blog posts (recent 5)](https://blog.zhyun.kim)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br>
+<br>
+
 <!-- most used top5 & waka time -------------------------------------------------------------------------------------------------------------------------------------------->
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&theme=github_dark&custom_title=Most%20Used%20Languages&layout=compact&hide_border=true&count_private=true&include_all_commits=true&langs_count=5&size_weight=0.2&count_weight=0.8&hide=scss,html,javascript,shell,ruby,css&card_width=300"/></a>
