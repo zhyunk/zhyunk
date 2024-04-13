@@ -35,13 +35,12 @@ h2 db를 embedded 형태로 사용하여
 
 테스트 코드 작성을 익히기 위해 간단한 구조로 설계하였습니다.
 
-<br>
-
-<a href="https://github.com/zhyun-project/simple-board-01">
-    <img src="https://img.shields.io/badge/Repository%20🔗-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<div align=right>
+  <a href="https://github.com/zhyun-project/simple-board-01">
+      <img src="https://img.shields.io/badge/Repository%20🔗-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
 </details>
 
-<hr>
 <br>
 
 <details>
@@ -91,11 +90,10 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 이번 프로젝트에서는 JWT 검증을 각 모듈에서 검증 후 사용하였지만,  
 다음 프로젝트에서는 gateway에서 JWT 검증 후 라우팅하도록 구현해보고자 합니다.
 
-<br>
-
-<a href="https://github.com/zhyun-project/simple-board-02">
-    <img alt="repository" src="https://img.shields.io/badge/Repository%20🔗-100000?style=for-the-badge&logo=github&logoColor=white"/></a><br><br>
-
+<div align=right>
+  <a href="https://github.com/zhyun-project/simple-board-02">
+      <img alt="repository" src="https://img.shields.io/badge/Repository%20🔗-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>  
 </details>
 
 
@@ -132,7 +130,6 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 </details>
 -->
 
-<hr>
 <br>
 
 </details>
@@ -143,7 +140,7 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 <details>
   <summary align="center"><h3 style="color: #000;">📖 My blog posts</h3></summary>
 
-`💡 Recent 5 posts　`  
+`💡 Recent 5 posts　`
 
 <!-- BLOG-POST-LIST:START -->
 - [Jekyll - &lpar;Chirpy&rpar; Rss Feed 설정 변경](https://blog.zhyun.kim/posts/jekyll-chirpy-rss-feed-%EC%84%A4%EC%A0%95-%EB%B3%80%EA%B2%BD/)
