@@ -9,7 +9,7 @@
 
 <!-- introduce project repository -------------------------------------------------------------------------------------------------------------------------------------------->
 <details>
-<summary align="center"><h3>📑 (or <a href="https://github.com/zhyun-project">🔗</a>)</h3></summary>
+<summary align="center"><h3>　📜 　or　<a href="https://github.com/zhyun-project">🔗</a>　</h3></summary>
 
 <details>
 <summary><h3>simple-board</h3></summary>
@@ -138,12 +138,12 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 </details>
 
 <br>
-<br>
 
+<!-- blog posts -------------------------------------------------------------------------------------------------------------------------------------------->
 <details>
   <summary align="center"><h3 style="color: #000;">📖 My blog posts</h3></summary>
 
-`💡 Recent 5 posts`
+`💡 Recent 5 posts　`  
 
 <!-- BLOG-POST-LIST:START -->
 - [Jekyll - &lpar;Chirpy&rpar; Rss Feed 설정 변경](https://blog.zhyun.kim/posts/jekyll-chirpy-rss-feed-%EC%84%A4%EC%A0%95-%EB%B3%80%EA%B2%BD/)
@@ -153,11 +153,9 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 - [Spring Boot - 멀티 모듈 구성 &lpar;2&rpar; 다른 방법](https://blog.zhyun.kim/posts/Spring-Boot-%EB%A9%80%ED%8B%B0-%EB%AA%A8%EB%93%88-%EA%B5%AC%EC%84%B1-(2)-%EB%8B%A4%EB%A5%B8-%EB%B0%A9%EB%B2%95/)
 <!-- BLOG-POST-LIST:END -->
 
-<br>
-
-<div align=center>
+<div align=right>
   <a href="https://blog.zhyun.kim">
-    <img src="https://img.shields.io/badge/blog.zhyun.kim-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/👉_blog.zhyun.kim_👈-0A0A0A?style=for-the-badge"/>
   </a>
 </div>
 
