@@ -12,10 +12,11 @@
 <summary align="center"><h3>　📜 　or　<a href="https://github.com/zhyun-project">🔗</a>　</h3></summary>
 
 <details>
-<summary><h3>simple-board</h3></summary>
+<summary><h3>　　simple-board</h3></summary>
 
 <br>
-
+<table align=center>
+  <tr><th width=745px>
 <a href="https://github.com/zhyun-project/simple-board-01">
     <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=badge&logo=Gradle&logoColor=white"/></a>
 <a href="https://github.com/zhyun-project/simple-board-01">
@@ -26,12 +27,10 @@
     <img src="https://img.shields.io/badge/Spring_boot_3-6DB33F?style=badge&logo=spring&logoColor=white"/></a>
 <a href="https://github.com/zhyun-project/simple-board-01">
     <img src="https://img.shields.io/badge/H2-224DCA?style=badge&logo=h2&logoColor=white"/></a>
-<br><br>
-
-h2 db를 embedded 형태로 사용하여  
-제목과 내용을 관리하는 간단한 형태의 게시판 프로젝트입니다.
-
+</th></tr><tr><td>
 <br>
+
+h2 db를 embedded 형태로 사용하여 제목과 내용을 관리하는 간단한 형태의 게시판 프로젝트입니다.
 
 테스트 코드 작성을 익히기 위해 간단한 구조로 설계하였습니다.
 
@@ -39,15 +38,19 @@ h2 db를 embedded 형태로 사용하여
   <a href="https://github.com/zhyun-project/simple-board-01">
       <img src="https://img.shields.io/badge/Repository%20🔗-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
+
+  </td></tr>
+</table>
 </details>
 
 <br>
 
 <details>
-<summary><h3>board</h3></summary>
+<summary><h3>　　board</h3></summary>
 
 <br>
-
+<table align=center>
+  <tr><th width=745px>
 <a href="https://github.com/zhyun-project/simple-board-02">
     <img alt="gradle" src="https://img.shields.io/badge/Gradle-02303A.svg?style=badge&logo=Gradle&logoColor=white"/></a>
 <a href="https://github.com/zhyun-project/simple-board-02">
@@ -64,48 +67,51 @@ h2 db를 embedded 형태로 사용하여
     <img alt="redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=badge&logo=redis&logoColor=white"/></a>
 <a href="https://github.com/zhyun-project/simple-board-02">
     <img alt="h2" src="https://img.shields.io/badge/H2-224DCA?style=badge&logo=h2&logoColor=white"/></a>
-<br><br>
+</th></tr><tr><td>
+<br>
 
-simple-board 프로젝트에  
-사용자 관리를 추가한 프로젝트입니다.
+simple-board 프로젝트에 사용자 관리를 추가한 프로젝트입니다.
 
 <br>  
 
-JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접근 제한 구현과  
-멀티 모듈 프로젝트 구현이 목표입니다.
+JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접근 제한 구현과 멀티 모듈 프로젝트 구현이 목표입니다.
 
 <br>
 
-도메인이 2개(사용자, 게시글)이기 때문에 멀티 모듈 구조를 시도해보게 되었고,  
+도메인이 2개(사용자, 게시글)라서 공부해보고 싶었던 멀티 모듈 구조를 적용해볼 수 있었으며 
 사용자 관리 모듈과 게시글 관리 모듈, 그리고 gateway(discovery) 모듈 순서로 구현하였습니다.
 
 <br>
 
-시큐리티와 JWT가 어렵다고 생각되어 사용자 관리 모듈을 제일 먼저 개발하였고,  
-사용자 관리 구현 후 토큰을 이용하는 서비스인 게시글 관리 모듈을 구현하였으며,  
-다음으로 gateway 모듈을 구현하여 하나의 "호스트:port"를 통해 모든 서비스에 접근할 수 있도록 구현하였습니다.
+시큐리티와 JWT가 어렵다고 생각되어 사용자 관리 모듈을 제일 먼저 개발하였고  
+다음으로 사용자 관리 구현 후 토큰을 이용하는 서비스인 게시글 관리 모듈을 구현,    
+마지막으로 gateway 모듈을 구현하여 하나의 "호스트:port"를 통해 모든 서비스에 접근할 수 있도록 구현하였습니다.
 
 <br>
 
-이번 프로젝트에서는 JWT 검증을 각 모듈에서 검증 후 사용하였지만,  
-다음 프로젝트에서는 gateway에서 JWT 검증 후 라우팅하도록 구현해보고자 합니다.
+[//]: # (이번 프로젝트에서는 JWT 검증을 각 모듈에서 검증하도록 구현했지만    )
+[//]: # (다음 프로젝트에서는 gateway에서 JWT 검증 후 라우팅하도록 구현해보고자 합니다.)
+> TODO (24.04 리팩토링 계획): 각 모듈에서 jwt 검증 -> gateway에서 jwt 검증
 
 <div align=right>
   <a href="https://github.com/zhyun-project/simple-board-02">
       <img alt="repository" src="https://img.shields.io/badge/Repository%20🔗-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>  
+
+  </td></tr>
+</table>
 </details>
 
 
 <!-- template ------------------------------------
-<hr>
 <br>
 
 <details>
-<summary><h3>title</h3></summary>
+<summary><h3>　　title</h3></summary>
 
 <br>
-
+<table align=center>
+  <tr><th width=745px>
 // spec
 <a href="https://github.com/zhyun-project/simple-board-01">
     <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=badge&logo=Gradle&logoColor=white"/></a>
@@ -117,7 +123,8 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
     <img src="https://img.shields.io/badge/Spring_boot_3-6DB33F?style=badge&logo=spring&logoColor=white"/></a>
 <a href="https://github.com/zhyun-project/simple-board-01">
     <img src="https://img.shields.io/badge/H2-224DCA?style=badge&logo=h2&logoColor=white"/></a>
-<br><br>
+</th></tr><tr><td>
+<br>
 
 // content
 
@@ -127,11 +134,12 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 <a href="https://github.com/zhyun-project/simple-board-02">
     <img alt="repository" src="https://img.shields.io/badge/Repository%20🔗-100000?style=for-the-badge&logo=github&logoColor=white"/></a><br><br>
 
+  </td></tr>
+</table>
 </details>
 -->
 
 <br>
-
 </details>
 
 <br>
@@ -162,6 +170,8 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 
   </td></tr>
 </table>
+
+<br>
 </details>
 
 <br>
