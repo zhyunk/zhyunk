@@ -152,7 +152,7 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 
 <div align=right>
   <a href="https://blog.zhyun.kim">
-    <img src="https://img.shields.io/badge/👉_blog.zhyun.kim_👈-0A0A0A?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/blog.zhyun.kim_🚀-0A0A0A?style=for-the-badge"/>
   </a>
 </div>
 
