@@ -140,7 +140,11 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 <details>
   <summary align="center"><h3 style="color: #000;">📖 My blog posts</h3></summary>
 
-`💡 Recent 5 posts　`
+<br>
+<table align=center>
+  <tr><th align=left width=745px>💡 Recent 5 posts</th></tr>
+  <tr><td>
+<br>
 
 <!-- BLOG-POST-LIST:START -->
 - [Jekyll - &lpar;Chirpy&rpar; Rss Feed 설정 변경](https://blog.zhyun.kim/posts/jekyll-chirpy-rss-feed-%EC%84%A4%EC%A0%95-%EB%B3%80%EA%B2%BD/)
@@ -150,12 +154,14 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 - [Spring Boot - 멀티 모듈 구성 &lpar;2&rpar; 다른 방법](https://blog.zhyun.kim/posts/Spring-Boot-%EB%A9%80%ED%8B%B0-%EB%AA%A8%EB%93%88-%EA%B5%AC%EC%84%B1-(2)-%EB%8B%A4%EB%A5%B8-%EB%B0%A9%EB%B2%95/)
 <!-- BLOG-POST-LIST:END -->
 
-<div align=right>
-  <a href="https://blog.zhyun.kim">
-    <img src="https://img.shields.io/badge/blog.zhyun.kim_🚀-0A0A0A?style=for-the-badge"/>
-  </a>
-</div>
+  <div align=right>
+    <a href="https://blog.zhyun.kim">
+      <img src="https://img.shields.io/badge/blog.zhyun.kim_🚀-0A0A0A?style=for-the-badge"/>
+    </a>
+  </div>
 
+  </td></tr>
+</table>
 </details>
 
 <br>
