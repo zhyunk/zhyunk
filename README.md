@@ -1,7 +1,15 @@
 <!-- header -------------------------------------------------------------------------------------------------------------------------------------------->
 <div align="center">
-  <a href="https://github.com/zhyunk">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=🛋️&fontSize=82&animation=twinkling"/>    
+  <a href="https://github.com/zhyunk"><picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=🛋️&fontSize=82&animation=twinkling">
+        <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=　%20🔍&fontSize=52&animation=twinkling">
+        <img alt="header 1" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=🛋️&fontSize=82&animation=twinkling"/>    
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://blog.zhyun.kim/assets/img/transparent.png">
+        <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=🐥&fontSize=32">
+        <img alt="header 2" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=🐥&fontSize=32"/>    
+    </picture>
   </a>
 </div>
 
@@ -35,8 +43,11 @@ h2 db를 embedded 형태로 사용하여 제목과 내용을 관리하는 간단
 테스트 코드 작성을 익히기 위해 간단한 구조로 설계하였습니다.
 
 <div align=right>
-  <a href="https://github.com/zhyun-project/simple-board-01">
-      <img src="https://img.shields.io/badge/Repository%20🔗-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/zhyun-project/simple-board-01"><picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Repository%20🔗-100000?style=for-the-badge&logo=github&logoColor=white">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Repository%20🔗-2f80ed?style=for-the-badge&logo=github&logoColor=white">
+        <img alt="repository link" src="https://img.shields.io/badge/Repository%20🔗-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    </picture></a>
 </div>
 
   </td></tr>
@@ -78,7 +89,7 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 
 <br>
 
-도메인이 2개(사용자, 게시글)라서 공부해보고 싶었던 멀티 모듈 구조를 적용해볼 수 있었으며 
+도메인이 2개(사용자, 게시글)라서 공부해보고 싶었던 멀티 모듈 구조를 적용해볼 수 있었으며
 사용자 관리 모듈과 게시글 관리 모듈, 그리고 gateway(discovery) 모듈 순서로 구현하였습니다.
 
 <br>
@@ -94,8 +105,11 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 > TODO (24.04 리팩토링 계획): 각 모듈에서 jwt 검증 -> gateway에서 jwt 검증
 
 <div align=right>
-  <a href="https://github.com/zhyun-project/simple-board-02">
-      <img alt="repository" src="https://img.shields.io/badge/Repository%20🔗-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/zhyun-project/simple-board-02"><picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Repository%20🔗-100000?style=for-the-badge&logo=github&logoColor=white">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Repository%20🔗-2f80ed?style=for-the-badge&logo=github&logoColor=white">
+        <img alt="repository link" src="https://img.shields.io/badge/Repository%20🔗-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    </picture></a>
 </div>  
 
   </td></tr>
@@ -131,8 +145,13 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 <br>
 
 // repository
-<a href="https://github.com/zhyun-project/simple-board-02">
-    <img alt="repository" src="https://img.shields.io/badge/Repository%20🔗-100000?style=for-the-badge&logo=github&logoColor=white"/></a><br><br>
+<div align=right>
+    <a href="https://github.com/zhyun-project/simple-board-02"><picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Repository%20🔗-100000?style=for-the-badge&logo=github&logoColor=white">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Repository%20🔗-2f80ed?style=for-the-badge&logo=github&logoColor=white">
+        <img alt="repository link" src="https://img.shields.io/badge/Repository%20🔗-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    </picture></a>
+</div>
 
   </td></tr>
 </table>
@@ -162,9 +181,11 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 <!-- BLOG-POST-LIST:END -->
 
   <div align=right>
-    <a href="https://blog.zhyun.kim">
-      <img src="https://img.shields.io/badge/blog.zhyun.kim_🚀-0A0A0A?style=for-the-badge"/>
-    </a>
+    <a href="https://blog.zhyun.kim"><picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/blog.zhyun.kim_🚀-0A0A0A?style=for-the-badge">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/blog.zhyun.kim_🚀-2f80ed?style=for-the-badge">
+        <img alt="blog link" src="https://img.shields.io/badge/blog.zhyun.kim_🚀-0A0A0A?style=for-the-badge">
+    </picture></a>
   </div>
 
   </td></tr>
@@ -176,9 +197,18 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 
 <!-- most used top5 & waka time -------------------------------------------------------------------------------------------------------------------------------------------->
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&theme=github_dark&custom_title=Most%20Used%20Languages&layout=compact&hide_border=true&count_private=true&include_all_commits=true&langs_count=5&size_weight=0.2&count_weight=0.8&hide=scss,html,javascript,shell,ruby,css&card_width=300"/></a>
-<a href="https://wakatime.com/@zhyun"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&theme=github_dark&custom_title=Waka%20Time%20⏰%20start%20date%20:%2024.01.03&hide_border=true&layout=compact" align="top"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&theme=github_dark&custom_title=Most%20Used%20Languages&layout=compact&hide_border=true&count_private=true&include_all_commits=true&langs_count=5&size_weight=0.2&count_weight=0.8&hide=scss,html,javascript,shell,ruby,css&card_width=300">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&custom_title=Most%20Used%20Languages&layout=compact&hide_border=true&count_private=true&include_all_commits=true&langs_count=5&size_weight=0.2&count_weight=0.8&hide=scss,html,javascript,shell,ruby,css&card_width=300">
+        <img alt="most used top 5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&theme=github_dark&custom_title=Most%20Used%20Languages&layout=compact&hide_border=true&count_private=true&include_all_commits=true&langs_count=5&size_weight=0.2&count_weight=0.8&hide=scss,html,javascript,shell,ruby,css&card_width=300" align="top"/>
+    </picture></a>
+    <a href="https://wakatime.com/@zhyun"><picture align="top">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&theme=github_dark&custom_title=Waka%20Time%20⏰%20start%20date%20:%2024.01.03&hide_border=true&layout=compact">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&custom_title=Waka%20Time%20⏰%20start%20date%20:%2024.01.03&hide_border=true&layout=compact">
+        <img alt="waka time" src="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&theme=github_dark&custom_title=Waka%20Time%20⏰%20start%20date%20:%2024.01.03&hide_border=true&layout=compact">
+    </picture></a>
 </div>
+
 
 <br>
 
