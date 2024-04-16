@@ -23,7 +23,8 @@
 <summary><h3>　　simple-board</h3></summary>
 
 <br>
-<table align=center>
+<img align="left" src="https://blog.zhyun.kim/assets/img/transparent28x1.png"/>
+<table align="left">
   <tr><th width=745px>
 <a href="https://github.com/zhyun-project/simple-board-01">
     <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=badge&logo=Gradle&logoColor=white"/></a>
@@ -54,13 +55,14 @@ h2 db를 embedded 형태로 사용하여 제목과 내용을 관리하는 간단
 </table>
 </details>
 
-<br>
+<br clear="both">
 
 <details>
 <summary><h3>　　board</h3></summary>
 
 <br>
-<table align=center>
+<img align="left" src="https://blog.zhyun.kim/assets/img/transparent28x1.png"/>
+<table align="left">
   <tr><th width=745px>
 <a href="https://github.com/zhyun-project/simple-board-02">
     <img alt="gradle" src="https://img.shields.io/badge/Gradle-02303A.svg?style=badge&logo=Gradle&logoColor=white"/></a>
@@ -118,13 +120,14 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 
 
 <!-- template ------------------------------------
-<br>
+<br clear="both">
 
 <details>
 <summary><h3>　　title</h3></summary>
 
 <br>
-<table align=center>
+<img align="left" src="https://blog.zhyun.kim/assets/img/transparent28x1.png"/>
+<table align="left">
   <tr><th width=745px>
 // spec
 <a href="https://github.com/zhyun-project/simple-board-01">
@@ -160,14 +163,15 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 
 </details>
 
-<br>
+<br clear="both">
 
 <!-- blog posts -------------------------------------------------------------------------------------------------------------------------------------------->
 <details>
   <summary align="center"><h3>📖 My blog posts</h3></summary>
 
 <br>
-<table align="center">
+<img align="left" src="https://blog.zhyun.kim/assets/img/transparent28x1.png"/>
+<table align="left">
   <tr><th align=left width=745px>💡 Recent 5 posts</th></tr>
   <tr><td>
   <br>
@@ -192,7 +196,7 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
   </table>
 </details>
 
-<br>
+<br clear="both">
 <br>
 
 <!-- most used top5 & waka time -------------------------------------------------------------------------------------------------------------------------------------------->
@@ -200,9 +204,9 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
     <a href="https://github.com/anuraghazra/github-readme-stats"><picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&theme=github_dark&custom_title=Most%20Used%20Languages&layout=compact&hide_border=true&count_private=true&include_all_commits=true&langs_count=5&size_weight=0.2&count_weight=0.8&hide=scss,html,javascript,shell,ruby,css&card_width=300">
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&custom_title=Most%20Used%20Languages&layout=compact&hide_border=true&count_private=true&include_all_commits=true&langs_count=5&size_weight=0.2&count_weight=0.8&hide=scss,html,javascript,shell,ruby,css&card_width=300">
-        <img alt="most used top 5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&theme=github_dark&custom_title=Most%20Used%20Languages&layout=compact&hide_border=true&count_private=true&include_all_commits=true&langs_count=5&size_weight=0.2&count_weight=0.8&hide=scss,html,javascript,shell,ruby,css&card_width=300" align="top"/>
+        <img alt="most used top 5" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&theme=github_dark&custom_title=Most%20Used%20Languages&layout=compact&hide_border=true&count_private=true&include_all_commits=true&langs_count=5&size_weight=0.2&count_weight=0.8&hide=scss,html,javascript,shell,ruby,css&card_width=300"/>
     </picture></a>
-    <a href="https://wakatime.com/@zhyun"><picture align="top">
+    <a href="https://wakatime.com/@zhyun"><picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&theme=github_dark&custom_title=Waka%20Time%20⏰%20start%20date%20:%2024.01.03&hide_border=true&layout=compact">
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&custom_title=Waka%20Time%20⏰%20start%20date%20:%2024.01.03&hide_border=true&layout=compact">
         <img alt="waka time" src="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&theme=github_dark&custom_title=Waka%20Time%20⏰%20start%20date%20:%2024.01.03&hide_border=true&layout=compact">
