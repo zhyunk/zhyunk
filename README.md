@@ -167,7 +167,7 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
   <summary align="center"><h3>📖 My blog posts</h3></summary>
 
 <br>
-<table><tr><td width="2000px" border="0" align="center"><table align="center">
+<table align="center">
   <tr><th align=left width=745px>💡 Recent 5 posts</th></tr>
   <tr><td>
   <br>
@@ -189,7 +189,7 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
   </div>
 
   </td></tr>
-  </table></td></tr></table>
+  </table>
 </details>
 
 <br>
