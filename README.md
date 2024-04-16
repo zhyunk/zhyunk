@@ -167,10 +167,10 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
   <summary align="center"><h3>📖 My blog posts</h3></summary>
 
 <br>
-<div align="center"><table width=745px>
+<table><tr><td width="2000px" border="0" align="center"><table>
   <tr><th align=left width=745px>💡 Recent 5 posts</th></tr>
   <tr><td>
-<br>
+  <br>
 
 <!-- BLOG-POST-LIST:START -->
 - [Jekyll - &lpar;Chirpy&rpar; Rss Feed 설정 변경](https://blog.zhyun.kim/posts/jekyll-chirpy-rss-feed-%EC%84%A4%EC%A0%95-%EB%B3%80%EA%B2%BD/)
@@ -189,7 +189,7 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
   </div>
 
   </td></tr>
-</table></div>
+  </table></td></tr></table>
 </details>
 
 <br>
