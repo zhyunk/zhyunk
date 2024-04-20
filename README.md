@@ -173,11 +173,11 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot - Attribute Resolver](https://blog.zhyun.kim/posts/Spring-Boot-Attribute-Resolver/)
 - [Chrome Plugin - ModHeader](https://blog.zhyun.kim/posts/Chrome-Plugin-ModHeader/)
 - [Jekyll - &lpar;Chirpy&rpar; Rss Feed 설정 변경](https://blog.zhyun.kim/posts/jekyll-chirpy-rss-feed-%EC%84%A4%EC%A0%95-%EB%B3%80%EA%B2%BD/)
 - [Github Pages에서 Vercel로 이동하기 - private repository 전환](https://blog.zhyun.kim/posts/github-pages%EC%97%90%EC%84%9C-vercel%EB%A1%9C-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0/)
 - [Hibernate - MySQL에 Enum 필드를 String&lpar;varchar&rpar;로 저장하는 이슈](https://blog.zhyun.kim/posts/hibernate-Enum-%ED%95%84%EB%93%9C%EB%A5%BC-String(varchar)%EB%A1%9C-%EC%A0%80%EC%9E%A5%ED%95%98%EB%8A%94-%EC%9D%B4%EC%8A%88-(mySql-enum-%ED%83%80%EC%9E%85)/)
-- [ubuntu - certbot 🤖 무료 ssl 인증서 설치](https://blog.zhyun.kim/posts/ubuntu-certbot!-%EB%AC%B4%EB%A3%8C-ssl-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EC%84%A4%EC%B9%98/)
 <!-- BLOG-POST-LIST:END -->
 
   <div align=right>
