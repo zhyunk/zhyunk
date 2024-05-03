@@ -171,11 +171,11 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Notepad++ - Explorer Plugin](https://blog.zhyun.kim/posts/Notepad-Explorer-Plugin/)
+- [Notepad++ - Template 설정 &lpar;NewFileBrowser Plugin&rpar;](https://blog.zhyun.kim/posts/Notepad-Template-%EC%84%A4%EC%A0%95-(NewFileBrowser-plugin)/)
 - [Java - 잘못 사용하고 있던 변수 개념 정리](https://blog.zhyun.kim/posts/Java-%EC%9E%98%EB%AA%BB-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B3%A0-%EC%9E%88%EB%8D%98-%EB%B3%80%EC%88%98-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC/)
 - [Notepad++ - 단축키 설정](https://blog.zhyun.kim/posts/Notepad-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%84%A4%EC%A0%95/)
 - [H2 Console - remote connections &lpar;&#39;webAllowOthers&#39;&rpar; are disabled on this server](https://blog.zhyun.kim/posts/H2-Console-remote-connections-('webAllowOthers')-are-disabled-on-this-server/)
-- [Spring Boot - Attribute Resolver](https://blog.zhyun.kim/posts/Spring-Boot-Attribute-Resolver/)
-- [Chrome Plugin - ModHeader](https://blog.zhyun.kim/posts/Chrome-Plugin-ModHeader/)
 <!-- BLOG-POST-LIST:END -->
 
   <div align=right>
