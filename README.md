@@ -24,7 +24,7 @@
 
 <br>
 <table align=center>
-  <tr><th width=745px>
+  <tr><th width=881px>
 <a href="https://github.com/zhyun-project/simple-board-01">
     <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=badge&logo=Gradle&logoColor=white"/></a>
 <a href="https://github.com/zhyun-project/simple-board-01">
@@ -61,7 +61,7 @@ h2 db를 embedded 형태로 사용하여 제목과 내용을 관리하는 간단
 
 <br>
 <table align=center>
-  <tr><th width=745px>
+  <tr><th width=881>
 <a href="https://github.com/zhyun-project/simple-board-02">
     <img alt="gradle" src="https://img.shields.io/badge/Gradle-02303A.svg?style=badge&logo=Gradle&logoColor=white"/></a>
 <a href="https://github.com/zhyun-project/simple-board-02">
@@ -100,7 +100,7 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 
 <br>
 
-> [리팩토링 📑](https://github.com/zhyun-project/simple-board-02/wiki/%F0%9F%9B%A0%EF%B8%8F-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%E2%9A%92%EF%B8%8F)  
+> [리팩토링 📑](https://github.com/zhyun-project/simple-board-02/wiki/%F0%9F%9B%A0%EF%B8%8F-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%E2%9A%92%EF%B8%8F)
 
 <div align=right>
   <a href="https://github.com/zhyun-project/simple-board-02"><picture>
@@ -123,7 +123,7 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 
 <br>
 <table align=center>
-  <tr><th width=745px>
+  <tr><th width=881px>
 // spec
 <a href="https://github.com/zhyun-project/simple-board-01">
     <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=badge&logo=Gradle&logoColor=white"/></a>
@@ -155,18 +155,14 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 </table>
 </details>
 -->
-
+<br>
 </details>
 
-<br>
-
-<br>
 <table align=center>
 
 <!-- blog posts -------------------------------------------------------------------------------------------------------------------------------------------->
-  <tr><th align="center" colspan="2">
+  <tr><th height=100 align="center" colspan="2">
     <h3>📖 My blog posts</h3>
-    <br>
   </th></tr>
   <tr><td align=left colspan="2"><span>💡 Recent 5 posts</span></td></tr>
   <tr><td colspan="2">
@@ -188,16 +184,16 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
     </picture></a>
   </div>
   </td></tr>
-  
+
 <!-- capsule-render -------------------------------------------------------------------------------------------------------------------------------------------->
   <tr><th align=center colspan="2"><div align="center">
   <a href="#"><picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=1345B7&height=180&section=footer&text=🪸-nl-🐟&fontSize=40&fontAlign=92">
+        <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=1345B7&height=180&section=footer&text=🐙-nl-🪸-nl-🦆-nl-🐠&fontSize=40&fontAlignY=70&fontAlignY=80&fontAlignY=30&fontAlignY=70&fontAlign=8&fontAlign=15&fontAlign=50&fontAlign=82">
         <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=footer&text=🦆-nl-&fontSize=40&fontAlign=92">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=1345B7&height=180&section=footer&text=🪸-nl-🐟&fontSize=40&fontAlign=92" />
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=1345B7&height=180&section=footer&text=🐙-nl-🪸-nl-🦆-nl-🐠&fontSize=40&fontAlignY=70&fontAlignY=80&fontAlignY=30&fontAlignY=70&fontAlign=8&fontAlign=15&fontAlign=50&fontAlign=82" />
     </picture></a>
   </div></th></tr>
-  
+
 <!-- most used top5 & waka time -------------------------------------------------------------------------------------------------------------------------------------------->
   <tr>
     <td><a href="https://github.com/anuraghazra/github-readme-stats"><picture>
@@ -211,12 +207,19 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
       <img alt="waka time" src="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&theme=github_dark&custom_title=Waka%20Time%20⏰%20start%20date%20:%2024.01.03&hide_border=true&layout=compact">
     </picture></a></td>
   </tr>
-  
+
 <!-- git animal -------------------------------------------------------------------------------------------------------------------------------------------->
   <tr>
     <td><a href="https://github.com/devxb/gitanimals"><img align="left" src="https://render.gitanimals.org/lines/zhyunk?pet-id=575068403528185932&contribution-view=false" width="300" height="300"/></a></td>
   </tr>
 </table>
 
-
-<br>
+<!-- footer -------------------------------------------------------------------------------------------------------------------------------------------->
+<div align="center"><a href="#"><img 
+  src="https://capsule-render.vercel.app/api?type=Shark&color=auto&height=55&section=header" width="141"/><img 
+  src="https://capsule-render.vercel.app/api?type=Shark&color=auto&height=55&section=header" width="141"/><img 
+  src="https://capsule-render.vercel.app/api?type=Shark&color=auto&height=55&section=header" width="141"/><img 
+  src="https://capsule-render.vercel.app/api?type=Shark&color=auto&height=55&section=header" width="141"/><img 
+  src="https://capsule-render.vercel.app/api?type=Shark&color=auto&height=55&section=header" width="141"/><img 
+  src="https://capsule-render.vercel.app/api?type=Shark&color=auto&height=55&section=header" width="141"
+/></a></div>
