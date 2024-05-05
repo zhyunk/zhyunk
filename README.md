@@ -160,15 +160,17 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 
 <br>
 
-<!-- blog posts -------------------------------------------------------------------------------------------------------------------------------------------->
-<details>
-  <summary align="center"><h3>📖 My blog posts</h3></summary>
-
 <br>
 <table align=center>
-  <tr><th align=left width=745px>💡 Recent 5 posts</th></tr>
-  <tr><td>
-<br>
+
+<!-- blog posts -------------------------------------------------------------------------------------------------------------------------------------------->
+  <tr><th align="center" colspan="2">
+    <h3>📖 My blog posts</h3>
+    <br>
+  </th></tr>
+  <tr><td align=left colspan="2"><span>💡 Recent 5 posts</span></td></tr>
+  <tr><td colspan="2">
+    <br>
 
 <!-- BLOG-POST-LIST:START -->
 - [Spring Boot - Mockito로 mock 만들어 테스트 검증하기](https://blog.zhyun.kim/posts/Spring-Boot-Mockito/)
@@ -185,16 +187,18 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
         <img alt="blog link" src="https://img.shields.io/badge/blog.zhyun.kim_🚀-0A0A0A?style=for-the-badge">
     </picture></a>
   </div>
-
   </td></tr>
-</table>
-</details>
-
-<br>
-<br>
-
+  
+<!-- capsule-render -------------------------------------------------------------------------------------------------------------------------------------------->
+  <tr><th align=center colspan="2"><div align="center">
+  <a href="#"><picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=1345B7&height=180&section=footer&text=🪸-nl-🐟&fontSize=40&fontAlign=92">
+        <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=footer&text=🦆-nl-&fontSize=40&fontAlign=92">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=1345B7&height=180&section=footer&text=🪸-nl-🐟&fontSize=40&fontAlign=92" />
+    </picture></a>
+  </div></th></tr>
+  
 <!-- most used top5 & waka time -------------------------------------------------------------------------------------------------------------------------------------------->
-<table align="center">
   <tr>
     <td><a href="https://github.com/anuraghazra/github-readme-stats"><picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&theme=github_dark&custom_title=Most%20Used%20Languages&layout=compact&hide_border=true&count_private=true&include_all_commits=true&langs_count=5&size_weight=0.2&count_weight=0.8&hide=scss,html,javascript,shell,ruby,css&card_width=300">
@@ -207,6 +211,8 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
       <img alt="waka time" src="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&theme=github_dark&custom_title=Waka%20Time%20⏰%20start%20date%20:%2024.01.03&hide_border=true&layout=compact">
     </picture></a></td>
   </tr>
+  
+<!-- git animal -------------------------------------------------------------------------------------------------------------------------------------------->
   <tr>
     <td><a href="https://github.com/devxb/gitanimals"><img align="left" src="https://render.gitanimals.org/lines/zhyunk?pet-id=575068403528185932&contribution-view=false" width="300" height="300"/></a></td>
   </tr>
@@ -214,8 +220,3 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 
 
 <br>
-
-<!-- footer -------------------------------------------------------------------------------------------------------------------------------------------->
-<div align="center">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=footer&text=🦆-nl-&fontSize=40&fontAlign=92" /></a>
-</div>
