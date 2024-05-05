@@ -171,11 +171,11 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot - Mockito로 mock 만들어 테스트 검증하기](https://blog.zhyun.kim/posts/Spring-Boot-Mockito/)
+- [SDM - TDD, BDD](https://blog.zhyun.kim/posts/SDM-TDD,-BDD/)
 - [Spring Boot - Junit5 어노테이션](https://blog.zhyun.kim/posts/Spring-Boot-Junit5-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98/)
 - [Spring Boot - JUnit5 Assertions](https://blog.zhyun.kim/posts/Spring-Boot-JUnit5-Assertions/)
 - [Spring Boot - JUnit5 Test 설정](https://blog.zhyun.kim/posts/Spring-Boot-JUnit5-Test-%EC%84%A4%EC%A0%95-%EA%B4%80%EB%A0%A8-%EC%A0%95%EB%A6%AC/)
-- [Notepad++ - Explorer Plugin](https://blog.zhyun.kim/posts/Notepad-Explorer-Plugin/)
-- [Notepad++ - Template 설정 &lpar;NewFileBrowser Plugin&rpar;](https://blog.zhyun.kim/posts/Notepad-Template-%EC%84%A4%EC%A0%95-(NewFileBrowser-plugin)/)
 <!-- BLOG-POST-LIST:END -->
 
   <div align=right>
