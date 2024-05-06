@@ -210,7 +210,11 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 
 <!-- git animal -------------------------------------------------------------------------------------------------------------------------------------------->
   <tr>
-    <td><a href="https://github.com/devxb/gitanimals"><img align="left" src="https://render.gitanimals.org/lines/zhyunk?pet-id=575068403528185932&contribution-view=false" width="300" height="300"/></a></td>
+    <td><a href="https://github.com/devxb/gitanimals"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=575068403528185932&contribution-view=false">
+      <source media="(prefers-color-scheme: light)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=575068403528185934&contribution-view=false">
+      <img align="left" src="https://render.gitanimals.org/lines/zhyunk?pet-id=575068403528185932&contribution-view=false" width="300" height="300"/>    
+    </picture></a></td>
   </tr>
 </table>
 
