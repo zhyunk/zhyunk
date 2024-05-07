@@ -210,11 +210,13 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 
 <!-- git animal -------------------------------------------------------------------------------------------------------------------------------------------->
   <tr>
-    <td><a href="https://github.com/devxb/gitanimals"><picture>
+    <td><a href="https://github.com/devxb/gitanimals">
+      <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=575068403528185932&contribution-view=false">
       <source media="(prefers-color-scheme: light)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=575068403528185934&contribution-view=false">
-      <img align="left" src="https://render.gitanimals.org/lines/zhyunk?pet-id=575068403528185932&contribution-view=false" width="300" height="300"/>    
-    </picture></a></td>
+      <img src="https://render.gitanimals.org/lines/zhyunk?pet-id=575068403528185932&contribution-view=false" width="320" height="210"/>    
+    </picture><br>
+    <img src="https://capsule-render.vercel.app/api?type=transparent&text=🌱-nl-🌼-nl-🌱-nl-🪑🪑-nl-🌳-nl-🌱-nl-🪨-nl-🗑️%20&fontAlignY=100&fontAlignY=70&fontAlignY=100&fontAlignY=70&fontAlignY=70&fontAlignY=100&fontAlignY=85&fontAlignY=70&fontAlign=5&fontAlign=16&fontAlign=25&fontAlign=41&fontAlign=58&fontAlign=68&fontAlign=82&fontAlign=95" width=320></a></td>
   </tr>
 </table>
 
