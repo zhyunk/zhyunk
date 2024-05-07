@@ -224,9 +224,9 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 <!-- footer -------------------------------------------------------------------------------------------------------------------------------------------->
 <div align="center"><a href="#"><img 
   src="https://capsule-render.vercel.app/api?type=Shark&color=auto&height=55&section=header" width="141"/><img 
+  src="https://capsule-render.vercel.app/api?type=Shark&color=auto&height=55&section=footer" width="141"/><img 
   src="https://capsule-render.vercel.app/api?type=Shark&color=auto&height=55&section=header" width="141"/><img 
   src="https://capsule-render.vercel.app/api?type=Shark&color=auto&height=55&section=header" width="141"/><img 
-  src="https://capsule-render.vercel.app/api?type=Shark&color=auto&height=55&section=header" width="141"/><img 
-  src="https://capsule-render.vercel.app/api?type=Shark&color=auto&height=55&section=header" width="141"/><img 
+  src="https://capsule-render.vercel.app/api?type=Shark&color=auto&height=55&section=footer" width="141"/><img 
   src="https://capsule-render.vercel.app/api?type=Shark&color=auto&height=55&section=header" width="141"
 /></a></div>
