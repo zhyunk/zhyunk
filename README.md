@@ -211,6 +211,7 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 <!-- git animal -------------------------------------------------------------------------------------------------------------------------------------------->
   <tr>
     <td><a href="https://github.com/devxb/gitanimals">
+      <img src="https://capsule-render.vercel.app/api?type=transparent&text=☁️-nl-🌤️-nl-☁️-nl-🕊️-nl-🕊️-nl-🛩️&fontAlignY=80&fontAlignY=70&fontAlignY=80&fontAlignY=80&fontAlignY=65&fontAlignY=85&fontAlign=5&fontAlign=15&fontAlign=22&fontAlign=47&fontAlign=68&fontAlign=92" width=320><br>
       <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=575068403528185932&contribution-view=false">
       <source media="(prefers-color-scheme: light)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=575068403528185934&contribution-view=false">
