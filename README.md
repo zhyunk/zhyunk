@@ -169,7 +169,7 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
     <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Issue - RedisTemplate Mocking](https://blog.zhyun.kim/posts/Issue-RedisTemplate-Mocking/)
+- [Issue - org.mockito.exceptions.verification.VerificationInOrderFailure: Verification in order failure: redisTemplate.opsForSet&lpar;&rpar;;](https://blog.zhyun.kim/posts/Issue-RedisTemplate-Mocking/)
 - [Project [Simple Board 2] - 테스트 구상](https://blog.zhyun.kim/posts/SB2-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B5%AC%EC%83%81/)
 - [Spring Boot - Mockito로 mock 만들어 테스트 검증하기](https://blog.zhyun.kim/posts/Spring-Boot-Mockito/)
 - [SDM - TDD, BDD](https://blog.zhyun.kim/posts/SDM-TDD,-BDD/)
