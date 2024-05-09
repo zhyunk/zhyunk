@@ -169,11 +169,11 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
     <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot Test - @InjectMock 사용하지 않고 Mock 객체를 사용하는 인스턴스 만들기](https://blog.zhyun.kim/posts/@InjectMock-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EC%95%8A%EA%B3%A0-Mock-%EA%B0%9D%EC%B2%B4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
+- [Spring Boot - Lombok 설정으로 @Value 필드를 생성자에서 주입 받기](https://blog.zhyun.kim/posts/Lombok-%EC%84%A4%EC%A0%95%EC%9C%BC%EB%A1%9C-@Value-%ED%95%84%EB%93%9C%EB%A5%BC-%EC%83%9D%EC%84%B1%EC%9E%90%EC%97%90%EC%84%9C-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0/)
 - [Issue - org.mockito.exceptions.verification.VerificationInOrderFailure: Verification in order failure: redisTemplate.opsForSet&lpar;&rpar;;](https://blog.zhyun.kim/posts/Issue-RedisTemplate-Mocking/)
 - [Project [Simple Board 2] - 테스트 구상](https://blog.zhyun.kim/posts/SB2-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B5%AC%EC%83%81/)
 - [Spring Boot - Mockito로 mock 만들어 테스트 검증하기](https://blog.zhyun.kim/posts/Spring-Boot-Mockito/)
-- [SDM - TDD, BDD](https://blog.zhyun.kim/posts/SDM-TDD,-BDD/)
-- [Spring Boot - Junit5 어노테이션](https://blog.zhyun.kim/posts/Spring-Boot-Junit5-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98/)
 <!-- BLOG-POST-LIST:END -->
 
   <div align=right>
