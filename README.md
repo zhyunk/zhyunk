@@ -169,11 +169,11 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
     <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Issue - 여러 줄 문자열 검증하기](https://blog.zhyun.kim/posts/Issue-%EC%97%AC%EB%9F%AC-%EC%A4%84-%EB%AC%B8%EC%9E%90%EC%97%B4-%EA%B2%80%EC%A6%9D%ED%95%98%EA%B8%B0/)
 - [Spring Boot Test - Rest Controller 단위 테스트 작성하기](https://blog.zhyun.kim/posts/Spring-Boot-Test-Rest-Controller-%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0/)
 - [Redis - Redis Cli 실행 시 한글 분해돼서 나타날 때](https://blog.zhyun.kim/posts/Redis-Redis-Cli-%EC%8B%A4%ED%96%89-%EC%8B%9C-%ED%95%9C%EA%B8%80-%EB%B6%84%ED%95%B4%EB%8F%BC%EC%84%9C-%EB%82%98%ED%83%80%EB%82%A0-%EB%95%8C/)
 - [Redis - Database 변경](https://blog.zhyun.kim/posts/Redis-Database-%EB%B3%80%EA%B2%BD/)
 - [Spring Boot - Redis 설정](https://blog.zhyun.kim/posts/Spring-Boot-Redis-%EC%84%A4%EC%A0%95/)
-- [Spring Boot Test - @InjectMock 사용하지 않고 Mock 객체를 사용하는 인스턴스 만들기](https://blog.zhyun.kim/posts/@InjectMock-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EC%95%8A%EA%B3%A0-Mock-%EA%B0%9D%EC%B2%B4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 <!-- BLOG-POST-LIST:END -->
 
   <div align=right>
