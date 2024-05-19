@@ -169,11 +169,11 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
     <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot Test - Interceptor 테스트](https://blog.zhyun.kim/posts/Spring-Boot-Test-Interceptor-%ED%85%8C%EC%8A%A4%ED%8A%B8/)
 - [Spring Boot Test - Argument Captor](https://blog.zhyun.kim/posts/Spring-Boot-Test-Argument-Captor/)
 - [Spring Boot Test - Service 테스트](https://blog.zhyun.kim/posts/Spring-Boot-Test-Service-%ED%85%8C%EC%8A%A4%ED%8A%B8/)
 - [Issue - 여러 줄 문자열 검증하기](https://blog.zhyun.kim/posts/Issue-%EC%97%AC%EB%9F%AC-%EC%A4%84-%EB%AC%B8%EC%9E%90%EC%97%B4-%EA%B2%80%EC%A6%9D%ED%95%98%EA%B8%B0/)
 - [Spring Boot Test - Rest Controller 단위 테스트 작성하기](https://blog.zhyun.kim/posts/Spring-Boot-Test-Rest-Controller-%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0/)
-- [Redis - Redis Cli 실행 시 한글 분해돼서 나타날 때](https://blog.zhyun.kim/posts/Redis-Redis-Cli-%EC%8B%A4%ED%96%89-%EC%8B%9C-%ED%95%9C%EA%B8%80-%EB%B6%84%ED%95%B4%EB%8F%BC%EC%84%9C-%EB%82%98%ED%83%80%EB%82%A0-%EB%95%8C/)
 <!-- BLOG-POST-LIST:END -->
 
   <div align=right>
