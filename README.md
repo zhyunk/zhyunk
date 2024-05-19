@@ -100,7 +100,8 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 
 <br>
 
-> [리팩토링 📑](https://github.com/zhyun-project/simple-board-02/wiki/%F0%9F%9B%A0%EF%B8%8F-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%E2%9A%92%EF%B8%8F)
+> 리팩토링 📑  
+> 1. *`24.04.24 ~ 24.05.18`* - [*프로젝트 구조 변경, 테스트 코드 전체 수정*](https://github.com/zhyun-project/simple-board-02/wiki/🛠%EF%B8%8F-리팩토링-1차-⚒%EF%B8%8F) 
 
 <div align=right>
   <a href="https://github.com/zhyun-project/simple-board-02"><picture>
