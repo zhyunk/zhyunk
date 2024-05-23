@@ -170,11 +170,11 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
     <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS - EC2 시작하기](https://blog.zhyun.kim/posts/AWS-EC2-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
 - [Spring Boot Test - Interceptor 테스트](https://blog.zhyun.kim/posts/Spring-Boot-Test-Interceptor-%ED%85%8C%EC%8A%A4%ED%8A%B8/)
 - [Spring Boot Test - Argument Captor](https://blog.zhyun.kim/posts/Spring-Boot-Test-Argument-Captor/)
 - [Spring Boot Test - Service 테스트](https://blog.zhyun.kim/posts/Spring-Boot-Test-Service-%ED%85%8C%EC%8A%A4%ED%8A%B8/)
 - [Issue - 여러 줄 문자열 검증하기](https://blog.zhyun.kim/posts/Issue-%EC%97%AC%EB%9F%AC-%EC%A4%84-%EB%AC%B8%EC%9E%90%EC%97%B4-%EA%B2%80%EC%A6%9D%ED%95%98%EA%B8%B0/)
-- [Spring Boot Test - Rest Controller 단위 테스트 작성하기](https://blog.zhyun.kim/posts/Spring-Boot-Test-Rest-Controller-%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0/)
 <!-- BLOG-POST-LIST:END -->
 
   <div align=right>
