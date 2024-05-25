@@ -170,11 +170,11 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
     <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux 명령어 - mkdir](https://blog.zhyun.kim/posts/Linux-%EB%AA%85%EB%A0%B9%EC%96%B4-mkdir/)
 - [Github Actions - gradle 버전 지정하기](https://blog.zhyun.kim/posts/Github-Actions-gradle-%EB%B2%84%EC%A0%84-%EC%A7%80%EC%A0%95%ED%95%98%EA%B8%B0/)
 - [IntelliJ Issue - 프로젝트 구조가 보이지 않을 때](https://blog.zhyun.kim/posts/IntelliJ-Issue-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%A1%B0%EA%B0%80-%EB%B3%B4%EC%9D%B4%EC%A7%80-%EC%95%8A%EC%9D%84-%EB%95%8C/)
 - [PuTTYgen - ppk to pem, pem to ppk 변환](https://blog.zhyun.kim/posts/PuTTYgen-.ppk-%ED%8C%8C%EC%9D%BC%EC%9D%84-.pem-%ED%8C%8C%EC%9D%BC%EB%A1%9C,-.pem-%ED%8C%8C%EC%9D%BC%EC%9D%84-.ppk-%ED%8C%8C%EC%9D%BC%EB%A1%9C-%EB%B3%80%ED%99%98/)
 - [AWS - EC2 시작하기](https://blog.zhyun.kim/posts/AWS-EC2-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
-- [Spring Boot Test - Interceptor 테스트](https://blog.zhyun.kim/posts/Spring-Boot-Test-Interceptor-%ED%85%8C%EC%8A%A4%ED%8A%B8/)
 <!-- BLOG-POST-LIST:END -->
 
   <div align=right>
