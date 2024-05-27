@@ -170,11 +170,11 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
     <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Github Actions - 시작하기](https://blog.zhyun.kim/posts/Github-Actions-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
 - [AWS EC2 - t2.micro 인스턴스에 가상 메모리 용량 늘리기](https://blog.zhyun.kim/posts/AWS-EC2-t2.micro-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%EA%B0%80%EC%83%81-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%9A%A9%EB%9F%89-%EB%8A%98%EB%A6%AC%EA%B8%B0/)
 - [Linux 명령어 - df](https://blog.zhyun.kim/posts/Linux-%EB%AA%85%EB%A0%B9%EC%96%B4-df/)
 - [Linux 명령어 - free](https://blog.zhyun.kim/posts/Linux-%EB%AA%85%EB%A0%B9%EC%96%B4-free/)
 - [Linux 명령어 - mkdir](https://blog.zhyun.kim/posts/Linux-%EB%AA%85%EB%A0%B9%EC%96%B4-mkdir/)
-- [Github Actions - gradle 버전 지정하기](https://blog.zhyun.kim/posts/Github-Actions-gradle-%EB%B2%84%EC%A0%84-%EC%A7%80%EC%A0%95%ED%95%98%EA%B8%B0/)
 <!-- BLOG-POST-LIST:END -->
 
   <div align=right>
