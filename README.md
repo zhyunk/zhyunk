@@ -1,19 +1,17 @@
 <!-- header -------------------------------------------------------------------------------------------------------------------------------------------->
 <div align="center">
-  <a href="https://github.com/zhyunk"><picture>
+  <a href="#"><picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=🛋️&fontSize=82&animation=twinkling">
-        <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=　%20🔍&fontSize=52&animation=twinkling">
+        <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=🔎-nl-🔍&fontAlign=3&fontAlign=97&&fontAlignY=50&fontAlignY=50&fontSize=52&animation=twinkling">
         <img alt="header 1" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=🛋️&fontSize=82&animation=twinkling"/>    
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://study.zhyun.kim/assets/img/transparent.png">
-        <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=🐥&fontSize=32">
-        <img alt="header 2" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=🐥&fontSize=32"/>    
+        <source media="(prefers-color-scheme: dark)" srcset="https://study.zhyun.kim/assets/img/transparent.png" width="850" height="40">
+        <source media="(prefers-color-scheme: light)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=584024399899088575&contribution-view=false" width="850" height="100">
+        <img alt="header 2" src="https://render.gitanimals.org/lines/zhyunk?pet-id=584024399899088575&contribution-view=false"/>    
     </picture>
   </a>
 </div>
-
-<br>
 
 <!-- introduce project repository -------------------------------------------------------------------------------------------------------------------------------------------->
 <details>
@@ -100,8 +98,8 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 
 <br>
 
-> 리팩토링 📑  
-> 1. *`24.04.24 ~ 24.05.18`* - [*프로젝트 구조 변경, 테스트 코드 전체 수정*](https://github.com/zhyun-project/simple-board-02/wiki/🛠%EF%B8%8F-리팩토링-1차-⚒%EF%B8%8F) 
+> 리팩토링 📑
+> 1. *`24.04.24 ~ 24.05.18`* - [*프로젝트 구조 변경, 테스트 코드 전체 수정*](https://github.com/zhyun-project/simple-board-02/wiki/🛠%EF%B8%8F-리팩토링-1차-⚒%EF%B8%8F)
 
 <div align=right>
   <a href="https://github.com/zhyun-project/simple-board-02"><picture>
@@ -214,7 +212,7 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
     <td><a href="https://github.com/devxb/gitanimals">
       <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=582154833054874760&contribution-view=false">
-      <source media="(prefers-color-scheme: light)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=575068403528185934&contribution-view=false">
+      <source media="(prefers-color-scheme: light)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=583424627266567092&contribution-view=false">
       <img src="https://render.gitanimals.org/lines/zhyunk?pet-id=575068403528185932&contribution-view=false" width="320" height="210"/>    
     </picture><br>
     <img src="https://capsule-render.vercel.app/api?type=transparent&text=🧊-nl-🧊-nl-🍉-nl-🧊　-nl-🧊-nl-🐒-nl-🧊-nl-🧊%20&fontAlignY=70&fontAlignY=70&fontAlignY=65&fontAlignY=70&fontAlignY=80&fontAlignY=70&fontAlignY=75&fontAlignY=70&fontAlign=5&fontAlign=16&fontAlign=25&fontAlign=41&fontAlign=58&fontAlign=70&fontAlign=82&fontAlign=95" width=320></a></td>
