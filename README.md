@@ -168,11 +168,11 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
     <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux - lsof](https://study.zhyun.kim/posts/Linux-lsof/)
 - [Github Actions - SCP 사용하기](https://study.zhyun.kim/posts/Github-Actions-SCP-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
 - [Github Actions - SSH 연결하기](https://study.zhyun.kim/posts/Github-Actions-SSH-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/)
 - [AWS CodeDeploy Issue - 배포 중 BeforeInstall 단계에서 보류 되다가 실패](https://study.zhyun.kim/posts/AWS-CodeDeploy-Issue-%EB%B0%B0%ED%8F%AC-%EC%A4%91-BeforeInstall-%EB%8B%A8%EA%B3%84%EC%97%90%EC%84%9C-%EB%B3%B4%EB%A5%98-%EB%90%98%EB%8B%A4%EA%B0%80-%EC%8B%A4%ED%8C%A8/)
 - [Github Actions - 시작하기](https://study.zhyun.kim/posts/Github-Actions-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
-- [AWS EC2 - t2.micro 인스턴스에 가상 메모리 용량 늘리기](https://study.zhyun.kim/posts/AWS-EC2-t2.micro-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%EA%B0%80%EC%83%81-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%9A%A9%EB%9F%89-%EB%8A%98%EB%A6%AC%EA%B8%B0/)
 <!-- BLOG-POST-LIST:END -->
 
   <div align=right>
