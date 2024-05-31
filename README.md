@@ -2,7 +2,7 @@
 <div align="center">
   <a href="#"><picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=🛋️&fontSize=82&animation=twinkling">
-        <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=🔎-nl-🔍&fontAlign=3&fontAlign=97&&fontAlignY=50&fontAlignY=50&fontSize=52&animation=twinkling">
+        <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=☀️-nl-☁️-nl-☁️-nl-☁️&fontAlign=3&fontAlign=10&fontAlign=7&fontAlign=90&&fontAlignY=50&fontAlignY=72&fontAlignY=82&fontAlignY=42&fontSize=52&animation=twinkling">
         <img alt="header 1" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=🛋️&fontSize=82&animation=twinkling"/>    
     </picture>
     <picture>
