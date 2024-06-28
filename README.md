@@ -168,11 +168,11 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
     <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [SSL, TLS](https://study.zhyun.kim/posts/SSL,-TLS/)
+- [Docker - Distribution &lpar;Registry&rpar;](https://study.zhyun.kim/posts/Docker-Distribution-(Registry)/)
 - [Docker - docker compose](https://study.zhyun.kim/posts/Docker-docker-compose/)
 - [Docker - dockerfile](https://study.zhyun.kim/posts/Docker-dockerfile/)
 - [Docker - 명령어 정리](https://study.zhyun.kim/posts/Docker-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC/)
-- [Docker - ubuntu 22.04에 설치하기](https://study.zhyun.kim/posts/docker-install-in-ubuntu/)
-- [Docker - windows11에 설치하기](https://study.zhyun.kim/posts/docker-install-in-windows/)
 <!-- BLOG-POST-LIST:END -->
 
   <div align=right>
