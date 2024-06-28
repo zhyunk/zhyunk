@@ -168,11 +168,11 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
     <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker - windows11에 설치하기](https://study.zhyun.kim/posts/docker/)
+- [Docker - ubuntu 22.04에 설치하기](https://study.zhyun.kim/posts/docker-install-in-ubuntu/)
+- [Docker - windows11에 설치하기](https://study.zhyun.kim/posts/docker-install-in-windows/)
 - [shell - 길고 긴 명령어 입력 시 줄 바꿈을 추가하는 방법](https://study.zhyun.kim/posts/shell-br-enter/)
 - [ubuntu - ssh 인증키 설정하기](https://study.zhyun.kim/posts/ubuntu-ssh-authentication-setting/)
 - [API - 좌표를 주소로 변환 &lpar;무료, 모든 국가 주소 지원&rpar;](https://study.zhyun.kim/posts/API-%EC%A2%8C%ED%91%9C%EB%A5%BC-%EC%A3%BC%EC%86%8C%EB%A1%9C-%EB%B3%80%ED%99%98-(%EB%AC%B4%EB%A3%8C,-%EC%A0%84%EC%84%B8%EA%B3%84)/)
-- [ubuntu - wttr.in 날씨 데이터 이미지로 만들기](https://study.zhyun.kim/posts/ubuntu-wttr.in-%EB%82%A0%EC%94%A8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 <!-- BLOG-POST-LIST:END -->
 
   <div align=right>
