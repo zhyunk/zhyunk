@@ -168,11 +168,11 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
     <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux - 빈 디렉터리 삭제](https://study.zhyun.kim/posts/Linux-%EB%B9%88-%EB%94%94%EB%A0%89%ED%84%B0%EB%A6%AC-%EC%82%AD%EC%A0%9C/)
 - [Docker - Network](https://study.zhyun.kim/posts/Docker-Network/)
 - [SSL, TLS](https://study.zhyun.kim/posts/SSL,-TLS/)
 - [Docker - Distribution &lpar;Registry&rpar;](https://study.zhyun.kim/posts/Docker-Distribution-(Registry)/)
 - [Docker - docker compose](https://study.zhyun.kim/posts/Docker-docker-compose/)
-- [Docker - dockerfile](https://study.zhyun.kim/posts/Docker-dockerfile/)
 <!-- BLOG-POST-LIST:END -->
 
   <div align=right>
