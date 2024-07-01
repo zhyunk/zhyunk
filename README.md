@@ -168,11 +168,11 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
     <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux - 로그인 불가능한 사용자 계정 생성](https://study.zhyun.kim/posts/nologin-shell/)
 - [Linux - 파일 제목에 날짜 찍기](https://study.zhyun.kim/posts/date-time-print-in-filename/)
 - [Kafka - Message Queuing Service](https://study.zhyun.kim/posts/Kafka-Message-Queuing-Service/)
 - [Linux - 빈 디렉터리 삭제](https://study.zhyun.kim/posts/Linux-%EB%B9%88-%EB%94%94%EB%A0%89%ED%84%B0%EB%A6%AC-%EC%82%AD%EC%A0%9C/)
 - [Docker - Network](https://study.zhyun.kim/posts/Docker-Network/)
-- [SSL, TLS](https://study.zhyun.kim/posts/SSL,-TLS/)
 <!-- BLOG-POST-LIST:END -->
 
   <div align=right>
