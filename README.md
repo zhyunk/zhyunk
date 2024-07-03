@@ -169,7 +169,7 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 
 <!-- BLOG-POST-LIST:START -->
 - [Java - Web IDE](https://study.zhyun.kim/posts/java-online-ide/)
-- [Spring Boot - 같은 객체로 2개의 bean 만들기](https://study.zhyun.kim/posts/Spring-Boot-%EA%B0%99%EC%9D%80-%EA%B0%9D%EC%B2%B4%EB%A1%9C-2%EA%B0%9C%EC%9D%98-bean-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
+- [Spring Boot - 특정 객체를 여러개의 bean으로 생성하기](https://study.zhyun.kim/posts/Spring-Boot-%ED%8A%B9%EC%A0%95-%EA%B0%9D%EC%B2%B4%EB%A5%BC-%EC%97%AC%EB%9F%AC%EA%B0%9C%EC%9D%98-bean%EC%9C%BC%EB%A1%9C-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0/)
 - [Linux - 로그인 불가능한 사용자 계정 생성](https://study.zhyun.kim/posts/nologin-shell/)
 - [Linux - 파일 제목에 날짜 찍기](https://study.zhyun.kim/posts/date-time-print-in-filename/)
 - [Kafka - Message Queuing Service](https://study.zhyun.kim/posts/Kafka-Message-Queuing-Service/)
