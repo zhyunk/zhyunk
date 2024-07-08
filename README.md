@@ -168,11 +168,11 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
     <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [RabbitMQ - windows11에 설치한 rabbitMQ 삭제](https://study.zhyun.kim/posts/RabbitMQ-windows11%EC%97%90-%EC%84%A4%EC%B9%98%ED%95%9C-rabbitMQ-%EC%82%AD%EC%A0%9C/)
 - [Linux - base64 인코딩 , 디코딩](https://study.zhyun.kim/posts/Linux-base64-%EC%9D%B8%EC%BD%94%EB%94%A9-,-%EB%94%94%EC%BD%94%EB%94%A9/)
 - [Powershell - jks 파일 base64로 인코딩](https://study.zhyun.kim/posts/Powershell-jks-%ED%8C%8C%EC%9D%BC-base64%EB%A1%9C-%EC%9D%B8%EC%BD%94%EB%94%A9/)
 - [Docker - docker compose로 dockerfile build하고 생성된 이미지 registry&lpar;distribution&rpar;/hub에 올리기](https://study.zhyun.kim/posts/Docker-docker-compose-build-push/)
 - [Java - Web IDE](https://study.zhyun.kim/posts/java-online-ide/)
-- [Spring Boot - 특정 객체를 여러개의 bean으로 생성하기](https://study.zhyun.kim/posts/Spring-Boot-%ED%8A%B9%EC%A0%95-%EA%B0%9D%EC%B2%B4%EB%A5%BC-%EC%97%AC%EB%9F%AC%EA%B0%9C%EC%9D%98-bean%EC%9C%BC%EB%A1%9C-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0/)
 <!-- BLOG-POST-LIST:END -->
 
   <div align=right>
