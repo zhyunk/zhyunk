@@ -168,11 +168,11 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
     <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows CMD - cmd에서 명령줄 입력 시 줄 바꿈 추가하기](https://study.zhyun.kim/posts/new-line-input-in-cmd/)
+- [Ubuntu - bash에서 JSON 출력문 보기 좋게 출력하기](https://study.zhyun.kim/posts/json-pretty-in-bash/)
+- [Windows CMD - cmd에서 JSON 출력문 보기 좋게 출력하기](https://study.zhyun.kim/posts/json-pretty-in-cmd/)
 - [Windows CMD - 실행중인 port 확인](https://study.zhyun.kim/posts/windows-cmd-%EC%8B%A4%ED%96%89%EC%A4%91%EC%9D%B8-port-%ED%99%95%EC%9D%B8/)
 - [RabbitMQ - windows11에 설치한 rabbitMQ 삭제](https://study.zhyun.kim/posts/RabbitMQ-windows11%EC%97%90-%EC%84%A4%EC%B9%98%ED%95%9C-rabbitMQ-%EC%82%AD%EC%A0%9C/)
-- [Linux - base64 인코딩 , 디코딩](https://study.zhyun.kim/posts/Linux-base64-%EC%9D%B8%EC%BD%94%EB%94%A9-,-%EB%94%94%EC%BD%94%EB%94%A9/)
-- [Powershell - jks 파일 base64로 인코딩](https://study.zhyun.kim/posts/Powershell-jks-%ED%8C%8C%EC%9D%BC-base64%EB%A1%9C-%EC%9D%B8%EC%BD%94%EB%94%A9/)
-- [Docker - docker compose로 dockerfile build하고 생성된 이미지 registry&lpar;distribution&rpar;/hub에 올리기](https://study.zhyun.kim/posts/Docker-docker-compose-build-push/)
 <!-- BLOG-POST-LIST:END -->
 
   <div align=right>
