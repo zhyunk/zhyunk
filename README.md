@@ -168,11 +168,11 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
     <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu Desktop - git, gitkraken, intelliJ, obsidian, docker, jekyll install](https://study.zhyun.kim/posts/Ubuntu-Desktop-git,-gitkraken,-intelliJ,-obsidian,-docker,-jekyll-install/)
 - [Windows - .bat file 만들기](https://study.zhyun.kim/posts/Windows-.bat-file-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 - [Docker Compose - health check](https://study.zhyun.kim/posts/Docker-Compose-health-check/)
 - [Windows CMD - cmd에서 명령줄 입력 시 줄 바꿈 추가하기](https://study.zhyun.kim/posts/new-line-input-in-cmd/)
 - [Ubuntu - bash에서 JSON 출력문 보기 좋게 출력하기](https://study.zhyun.kim/posts/json-pretty-in-bash/)
-- [Windows CMD - cmd에서 JSON 출력문 보기 좋게 출력하기](https://study.zhyun.kim/posts/json-pretty-in-cmd/)
 <!-- BLOG-POST-LIST:END -->
 
   <div align=right>
