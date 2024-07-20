@@ -168,11 +168,11 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
     <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu - deb 패키지 설치, 삭제 &lpar;dpkg&rpar;](https://study.zhyun.kim/posts/Ubuntu-deb-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%84%A4%EC%B9%98,-%EC%82%AD%EC%A0%9C-(dpkg)/)
 - [Ubuntu - 비공식 동행 복권 CLI 사용하기](https://study.zhyun.kim/posts/Ubuntu-%EB%B9%84%EA%B3%B5%EC%8B%9D-%EB%8F%99%ED%96%89-%EB%B3%B5%EA%B6%8C-CLI-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
 - [Ubuntu - 사용자 계정에서 pip 명령어 사용하기](https://study.zhyun.kim/posts/Ubuntu-%EC%82%AC%EC%9A%A9%EC%9E%90-%EA%B3%84%EC%A0%95%EC%97%90%EC%84%9C-pip-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
 - [Ubuntu Desktop - git, gitkraken, intelliJ, obsidian, docker, jekyll, wine kakaotalk install](https://study.zhyun.kim/posts/Ubuntu-Desktop-git,-gitkraken,-intelliJ,-obsidian,-docker,-jekyll-install/)
 - [Windows - .bat file 만들기](https://study.zhyun.kim/posts/Windows-.bat-file-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
-- [Docker Compose - health check](https://study.zhyun.kim/posts/Docker-Compose-health-check/)
 <!-- BLOG-POST-LIST:END -->
 
   <div align=right>
