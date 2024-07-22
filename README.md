@@ -1,16 +1,13 @@
 <!-- header -------------------------------------------------------------------------------------------------------------------------------------------->
 <div align="center">
   <a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header" />
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=🛋️&fontSize=82&animation=twinkling">
-        <source media="(prefers-color-scheme: light)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=584024399899088575&contribution-view=false" width="850" height="100">
-        <img alt="header 1" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=🛋️&fontSize=82&animation=twinkling"/>    
+        <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=142&section=header&text=🛋️&fontSize=82&animation=twinkling">
+        <source media="(prefers-color-scheme: light)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=584024399899088575&contribution-view=false" width="850" height="142">
+        <img alt="header 1" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=142&section=header&text=🛋️&fontSize=82&animation=twinkling"/>    
     </picture>
   </a>
 </div>
-
-<br>
 
 <!-- introduce project repository -------------------------------------------------------------------------------------------------------------------------------------------->
 <details>
