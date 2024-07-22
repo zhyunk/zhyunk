@@ -1,17 +1,16 @@
 <!-- header -------------------------------------------------------------------------------------------------------------------------------------------->
 <div align="center">
-  <a href="#"><picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=🛋️&fontSize=82&animation=twinkling">
-        <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=☀️-nl-☁️-nl-☁️-nl-☁️&fontAlign=3&fontAlign=10&fontAlign=7&fontAlign=90&&fontAlignY=50&fontAlignY=72&fontAlignY=82&fontAlignY=42&fontSize=52&animation=twinkling">
-        <img alt="header 1" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=🛋️&fontSize=82&animation=twinkling"/>    
-    </picture>
+  <a href="#">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header" />
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://study.zhyun.kim/assets/img/transparent.png" width="850" height="40">
+        <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=🛋️&fontSize=82&animation=twinkling">
         <source media="(prefers-color-scheme: light)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=584024399899088575&contribution-view=false" width="850" height="100">
-        <img alt="header 2" src="https://render.gitanimals.org/lines/zhyunk?pet-id=584024399899088575&contribution-view=false"/>    
+        <img alt="header 1" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=🛋️&fontSize=82&animation=twinkling"/>    
     </picture>
   </a>
 </div>
+
+<br>
 
 <!-- introduce project repository -------------------------------------------------------------------------------------------------------------------------------------------->
 <details>
@@ -157,37 +156,13 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 <br>
 </details>
 
-<table align=center>
-
-<!-- most used top5 & waka time -------------------------------------------------------------------------------------------------------------------------------------------->
-  <tr>
-    <td><a href="https://github.com/anuraghazra/github-readme-stats"><picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&theme=github_dark&custom_title=Most%20Used%20Languages&layout=compact&hide_border=true&count_private=true&include_all_commits=true&langs_count=5&size_weight=0.2&count_weight=0.8&hide=scss,html,javascript,shell,ruby,css&card_width=300">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&custom_title=Most%20Used%20Languages&layout=compact&hide_border=true&count_private=true&include_all_commits=true&langs_count=5&size_weight=0.2&count_weight=0.8&hide=scss,html,javascript,shell,ruby,css&card_width=300">
-        <img align="left" alt="most used top 5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&theme=github_dark&custom_title=Most%20Used%20Languages&layout=compact&hide_border=true&count_private=true&include_all_commits=true&langs_count=5&size_weight=0.2&count_weight=0.8&hide=scss,html,javascript,shell,ruby,css&card_width=300"/>
-    </picture></a></td>
-    <td rowspan="4" width="470"><a href="https://wakatime.com/@zhyun"><picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&theme=github_dark&custom_title=Waka%20Time%20⏰%20start%20date%20:%2024.01.03&hide_border=true&layout=compact">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&custom_title=Waka%20Time%20⏰%20start%20date%20:%2024.01.03&hide_border=true&layout=compact">
-      <img alt="waka time" src="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&theme=github_dark&custom_title=Waka%20Time%20⏰%20start%20date%20:%2024.01.03&hide_border=true&layout=compact">
-    </picture></a></td>
-  </tr>
-
-  <tr><td height=10></td></tr>
-
 <!-- blog posts -------------------------------------------------------------------------------------------------------------------------------------------->
-  <tr>
-    <td width="374" height=40 align="center">
-      <h3>📖 My blog posts</h3>
-    </td>
-  </tr>
-  <tr>
-    <td>
-<div align="left">
-
-`💡 Recent 5 posts`
-
-</div>
+<table align=center>
+  <tr><th width=845 height=100 align="center">
+    <h3>📖 My blog posts</h3>
+  </th></tr>
+  <tr><td align=left><span>💡 Recent 5 posts</span></td></tr>
+  <tr><td>
 <br>
 
 <!-- BLOG-POST-LIST:START -->
@@ -213,19 +188,35 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 
 <br>
 
+<!-- most used top5 & waka time -------------------------------------------------------------------------------------------------------------------------------------------->
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><picture><source
+  media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&theme=github_dark&custom_title=Most%20Used%20Languages&layout=compact&hide_border=true&count_private=true&include_all_commits=true&langs_count=5&size_weight=0.2&count_weight=0.8&hide=scss,html,javascript,shell,ruby,css&card_width=300"><source
+  media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&custom_title=Most%20Used%20Languages&layout=compact&hide_border=true&count_private=true&include_all_commits=true&langs_count=5&size_weight=0.2&count_weight=0.8&hide=scss,html,javascript,shell,ruby,css&card_width=300"><img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&theme=github_dark&custom_title=Most%20Used%20Languages&layout=compact&hide_border=true&count_private=true&include_all_commits=true&langs_count=5&size_weight=0.2&count_weight=0.8&hide=scss,html,javascript,shell,ruby,css&card_width=300"
+  align="left" alt="most used top 5"/>
+</picture></a><a href="https://wakatime.com/@zhyun"><picture><source
+  media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&theme=github_dark&custom_title=Waka%20Time%20⏰%20start%20date%20:%2024.01.03&hide_border=true&layout=compact"><source
+  media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&custom_title=Waka%20Time%20⏰%20start%20date%20:%2024.01.03&hide_border=true&layout=compact"><img
+  alt="waka time"
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&theme=github_dark&custom_title=Waka%20Time%20⏰%20start%20date%20:%2024.01.03&hide_border=true&layout=compact">  
+</picture></a>
+</div>
+
+
+<br>
+
 <!-- capsule-render & git animal -------------------------------------------------------------------------------------------------------------------------------------------->
-<a href="https://github.com/kyechan99/capsule-render">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header" />
-</a>
+<div align="center">
 <a href="https://github.com/git-goods/gitanimals"><img
   src="https://render.gitanimals.org/lines/zhyunk?pet-id=597095086959652253&contribution-view=false"
-  width="423" height="150"/><picture><source 
-  media="(prefers-color-scheme: dark)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=582154833054874760&contribution-view=false"><source 
-  media="(prefers-color-scheme: light)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=583424627266567092&contribution-view=false"><img 
-  src="https://render.gitanimals.org/lines/zhyunk?pet-id=575068403528185932&contribution-view=false" 
-  width="423" height="150"/>    
+  width="423" height="200"/><picture><source
+  media="(prefers-color-scheme: dark)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=582154833054874760&contribution-view=false"><source
+  media="(prefers-color-scheme: light)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=583424627266567092&contribution-view=false"><img
+  src="https://render.gitanimals.org/lines/zhyunk?pet-id=575068403528185932&contribution-view=false"
+  width="423" height="200"/>    
 </picture></a>
 <a href="https://github.com/kyechan99/capsule-render">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" />
 </a>
-
+</div>
