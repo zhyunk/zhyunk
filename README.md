@@ -184,13 +184,13 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
   </div>
   </td></tr>
 
-<!-- capsule-render -------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- capsule-render & git animal -------------------------------------------------------------------------------------------------------------------------------------------->
   <tr><th align=center colspan="2"><div align="center">
-  <a href="#"><picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=1345B7&height=180&section=footer&text=🐙-nl-🪸-nl-🦆-nl-🐠&fontSize=40&fontAlignY=70&fontAlignY=80&fontAlignY=30&fontAlignY=70&fontAlign=8&fontAlign=15&fontAlign=50&fontAlign=82">
-        <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=footer&text=🦆-nl-&fontSize=40&fontAlign=92">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=1345B7&height=180&section=footer&text=🐙-nl-🪸-nl-🦆-nl-🐠&fontSize=40&fontAlignY=70&fontAlignY=80&fontAlignY=30&fontAlignY=70&fontAlign=8&fontAlign=15&fontAlign=50&fontAlign=82" />
-    </picture></a>
+  <a href="#">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=header" />
+    <img src="https://render.gitanimals.org/lines/zhyunk?pet-id=597095086959652253&contribution-view=false" width="850" height="100"/>    
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=footer" />
+  </a>
   </div></th></tr>
 
 <!-- most used top5 & waka time -------------------------------------------------------------------------------------------------------------------------------------------->
