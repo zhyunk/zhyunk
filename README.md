@@ -173,8 +173,9 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
     </picture></a></td>
   </tr>
 
-<!-- blog posts -------------------------------------------------------------------------------------------------------------------------------------------->
   <tr><td height=10></td></tr>
+
+<!-- blog posts -------------------------------------------------------------------------------------------------------------------------------------------->
   <tr>
     <td width="374" height=40 align="center">
       <h3>📖 My blog posts</h3>
@@ -208,18 +209,22 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
     </td>
   </tr>
 
+  <tr><td height=10 colspan="2"></td></tr>
 
 <!-- capsule-render & git animal -------------------------------------------------------------------------------------------------------------------------------------------->
-  <tr><td align=center colspan="2">
-  <a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header" />
-    <img src="https://render.gitanimals.org/lines/zhyunk?pet-id=597095086959652253&contribution-view=false" width="404" height="150"/><picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=582154833054874760&contribution-view=false">
-      <source media="(prefers-color-scheme: light)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=583424627266567092&contribution-view=false">
-      <img src="https://render.gitanimals.org/lines/zhyunk?pet-id=575068403528185932&contribution-view=false" width="404" height="150"/>    
-    </picture>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
-  </a>
+  <tr><td colspan="2">
+    <a href="https://github.com/kyechan99/capsule-render">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header" />
+    </a>
+    <a href="https://github.com/git-goods/gitanimals"><img 
+      src="https://render.gitanimals.org/lines/zhyunk?pet-id=597095086959652253&contribution-view=false" width="408" height="150"/><picture><source 
+      media="(prefers-color-scheme: dark)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=582154833054874760&contribution-view=false"><source 
+      media="(prefers-color-scheme: light)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=583424627266567092&contribution-view=false"><img 
+      src="https://render.gitanimals.org/lines/zhyunk?pet-id=575068403528185932&contribution-view=false" width="408" height="150"/>    
+    </picture></a>
+    <a href="https://github.com/kyechan99/capsule-render">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+    </a>
   </td></tr>
 
 </table>
