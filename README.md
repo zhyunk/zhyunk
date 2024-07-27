@@ -194,7 +194,8 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
   align="left" alt="most used top 5"/>
 </picture></a><a href="https://wakatime.com/@zhyun"><picture><source
   media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&theme=github_dark&custom_title=Waka%20Time%20⏰%20start%20date%20:%2024.01.03&hide_border=true&layout=compact"><source
-  media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&custom_title=Waka%20Time%20⏰%20start%20date%20:%2024.01.03&hide_border=true&layout=compact"><img
+  media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&custom_title=Waka%20Time%20⏰%20start%20date%20:%2024.01.03&hide_border=true&layout=compact">
+  <img
   alt="waka time"
   src="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&theme=github_dark&custom_title=Waka%20Time%20⏰%20start%20date%20:%2024.01.03&hide_border=true&layout=compact">  
 </picture></a>
@@ -207,13 +208,14 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 <div align="center">
 <a href="https://github.com/git-goods/gitanimals"><img
   src="https://render.gitanimals.org/lines/zhyunk?pet-id=597095086959652253&contribution-view=false"
-  width="423" height="200"/><picture><source
+  width="423" height="200" alt=" "/><picture><source
   media="(prefers-color-scheme: dark)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=582154833054874760&contribution-view=false"><source
-  media="(prefers-color-scheme: light)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=583424627266567092&contribution-view=false"><img
+  media="(prefers-color-scheme: light)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=583424627266567092&contribution-view=false"><img 
   src="https://render.gitanimals.org/lines/zhyunk?pet-id=575068403528185932&contribution-view=false"
-  width="423" height="200"/>    
+  width="423" height="200" alt=" "/>    
 </picture></a>
+<br>
 <a href="https://github.com/kyechan99/capsule-render">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"  alt=" "/>
 </a>
 </div>
