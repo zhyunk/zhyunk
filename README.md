@@ -4,7 +4,7 @@
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=142&section=header&text=🛋️&fontSize=82&animation=twinkling">
         <source media="(prefers-color-scheme: light)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=584024399899088575&contribution-view=false" width="850" height="142">
-        <img alt="header 1" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=142&section=header&text=🛋️&fontSize=82&animation=twinkling"/>    
+        <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=142&section=header&text=🛋️&fontSize=82&animation=twinkling" alt="-🥲rz"/>    
     </picture>
   </a>
 </div>
@@ -191,12 +191,12 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
   media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&theme=github_dark&custom_title=Most%20Used%20Languages&layout=compact&hide_border=true&count_private=true&include_all_commits=true&langs_count=5&size_weight=0.2&count_weight=0.8&hide=scss,html,javascript,shell,ruby,css&card_width=300"><source
   media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&custom_title=Most%20Used%20Languages&layout=compact&hide_border=true&count_private=true&include_all_commits=true&langs_count=5&size_weight=0.2&count_weight=0.8&hide=scss,html,javascript,shell,ruby,css&card_width=300"><img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&theme=github_dark&custom_title=Most%20Used%20Languages&layout=compact&hide_border=true&count_private=true&include_all_commits=true&langs_count=5&size_weight=0.2&count_weight=0.8&hide=scss,html,javascript,shell,ruby,css&card_width=300"
-  align="left" alt="most used top 5"/>
+  align="left" alt="-🥲rz 　 most used top 5"/>
 </picture></a><a href="https://wakatime.com/@zhyun"><picture><source
   media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&theme=github_dark&custom_title=Waka%20Time%20⏰%20start%20date%20:%2024.01.03&hide_border=true&layout=compact"><source
   media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&custom_title=Waka%20Time%20⏰%20start%20date%20:%2024.01.03&hide_border=true&layout=compact">
   <img
-  alt="waka time"
+  alt="-🥲rz 　 waka time"
   src="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&theme=github_dark&custom_title=Waka%20Time%20⏰%20start%20date%20:%2024.01.03&hide_border=true&layout=compact">  
 </picture></a>
 </div>
@@ -208,14 +208,14 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 <div align="center">
 <a href="https://github.com/git-goods/gitanimals"><img
   src="https://render.gitanimals.org/lines/zhyunk?pet-id=597095086959652253&contribution-view=false"
-  width="423" height="200" alt=" "/><picture><source
+  width="423" height="200" alt="-🥲rz　"/><picture><source
   media="(prefers-color-scheme: dark)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=582154833054874760&contribution-view=false"><source
   media="(prefers-color-scheme: light)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=583424627266567092&contribution-view=false"><img 
   src="https://render.gitanimals.org/lines/zhyunk?pet-id=575068403528185932&contribution-view=false"
-  width="423" height="200" alt=" "/>    
+  width="423" height="200" alt="-🥲rz"/>    
 </picture></a>
 <br>
 <a href="https://github.com/kyechan99/capsule-render">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"  alt=" "/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"  alt="-🥲rz"/>
 </a>
 </div>
