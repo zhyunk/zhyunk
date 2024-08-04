@@ -208,11 +208,11 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 <div align="center">
 <a href="https://github.com/git-goods/gitanimals"><img
   src="https://render.gitanimals.org/lines/zhyunk?pet-id=597095086959652253&contribution-view=false"
-  width="423" height="200" alt="🔨-🥲rz　　"/><picture><source
+  width="420" height="200" alt="🔨-🥲rz　　"/><picture><source
   media="(prefers-color-scheme: dark)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=582154833054874760&contribution-view=false"><source
   media="(prefers-color-scheme: light)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=583424627266567092&contribution-view=false"><img 
   src="https://render.gitanimals.org/lines/zhyunk?pet-id=575068403528185932&contribution-view=false"
-  width="423" height="200" alt="🔨-🥲rz"/>    
+  width="421" height="200" alt="🔨-🥲rz"/>    
 </picture></a>
 <br>
 <a href="https://github.com/kyechan99/capsule-render">
