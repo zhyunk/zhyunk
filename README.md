@@ -163,11 +163,11 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu - 출력 값을 클립보드로 복사하기 &lpar;xclip, xsel&rpar;](https://study.zhyun.kim/posts/Ubuntu-%EC%B6%9C%EB%A0%A5-%EA%B0%92%EC%9D%84-%ED%81%B4%EB%A6%BD%EB%B3%B4%EB%93%9C%EB%A1%9C-%EB%B3%B5%EC%82%AC%ED%95%98%EA%B8%B0-(xclip,-xsel)/)
 - [Ubuntu Desktop - windows로 gui 원격 접속하기 &lpar;rdesktop&rpar;](https://study.zhyun.kim/posts/Ubuntu-Desktop-rdesktop/)
 - [Ubuntu Desktop - PDF 편집기 LibreOffice](https://study.zhyun.kim/posts/Ubuntu-Desktop-PDF-%ED%8E%B8%EC%A7%91%EA%B8%B0-LibreOffice/)
 - [Ubuntu - 바로가기 &lpar;desktop&rpar; 관련 기록](https://study.zhyun.kim/posts/Ubuntu-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0-(desktop)-%EA%B4%80%EB%A0%A8-%EA%B8%B0%EB%A1%9D/)
 - [IntelliJ - python 인터프리터 설정](https://study.zhyun.kim/posts/IntelliJ-python-%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0-%EC%84%A4%EC%A0%95/)
-- [Ubuntu - ssh 접속](https://study.zhyun.kim/posts/Ubuntu-ssh-%EC%A0%91%EC%86%8D/)
 <!-- BLOG-POST-LIST:END -->
 
   <br>
