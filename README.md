@@ -20,11 +20,11 @@
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux - Tree, 콘솔에서 파일 구조 그리기](https://study.zhyun.kim/posts/Linux-Tree,-%EC%BD%98%EC%86%94%EC%97%90%EC%84%9C-%ED%8C%8C%EC%9D%BC-%EA%B5%AC%EC%A1%B0-%EA%B7%B8%EB%A6%AC%EA%B8%B0/)
+- [Github Actions - Artifact, 서로 다른 job에서 파일 공유하기](https://study.zhyun.kim/posts/Github-Actions-Artifact,-%EC%84%9C%EB%A1%9C-%EB%8B%A4%EB%A5%B8-job%EC%97%90%EC%84%9C-%ED%8C%8C%EC%9D%BC-%EA%B3%B5%EC%9C%A0/)
 - [Spring Boot - CORS 설정](https://study.zhyun.kim/posts/Spring-Boot-CORS-%EC%84%A4%EC%A0%95/)
 - [Ubuntu - 출력 값을 클립보드로 복사하기 &lpar;xclip, xsel&rpar;](https://study.zhyun.kim/posts/Ubuntu-%EC%B6%9C%EB%A0%A5-%EA%B0%92%EC%9D%84-%ED%81%B4%EB%A6%BD%EB%B3%B4%EB%93%9C%EB%A1%9C-%EB%B3%B5%EC%82%AC%ED%95%98%EA%B8%B0-(xclip,-xsel)/)
 - [Ubuntu Desktop - windows로 gui 원격 접속하기 &lpar;rdesktop&rpar;](https://study.zhyun.kim/posts/Ubuntu-Desktop-rdesktop/)
-- [Ubuntu Desktop - PDF 편집기 LibreOffice](https://study.zhyun.kim/posts/Ubuntu-Desktop-PDF-%ED%8E%B8%EC%A7%91%EA%B8%B0-LibreOffice/)
-- [Ubuntu - 바로가기 &lpar;desktop&rpar; 관련 기록](https://study.zhyun.kim/posts/Ubuntu-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0-(desktop)-%EA%B4%80%EB%A0%A8-%EA%B8%B0%EB%A1%9D/)
 <!-- BLOG-POST-LIST:END -->
 
   <br>
