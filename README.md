@@ -20,11 +20,11 @@
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot - schema.sql, data.sql 실행 로그 출력](https://study.zhyun.kim/posts/Spring-Boot-print-logs-from-schema.sql,-data.sql/)
 - [Spring Boot - SpringDoc &lpar;Swagger&rpar; 설정](https://study.zhyun.kim/posts/Spring-Boot-SpringDoc-(Swagger)-%EC%84%A4%EC%A0%95/)
 - [JS - 클립보드에 텍스트 복사하기](https://study.zhyun.kim/posts/JS-%ED%81%B4%EB%A6%BD%EB%B3%B4%EB%93%9C%EC%97%90-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%B3%B5%EC%82%AC%ED%95%98%EA%B8%B0/)
 - [H2 issue - org.h2.mvstore.MVStoreException: java.lang.AssertionError](https://study.zhyun.kim/posts/H2-issue-org.h2.mvstore.MVStoreException/)
 - [Windows - waka time user key 변경하기](https://study.zhyun.kim/posts/wakatime-windows-key-change/)
-- [IntelliJ - 원격지에 ftp로 연결해서 작업하기](https://study.zhyun.kim/posts/IntelliJ-%EC%9B%90%EA%B2%A9%EC%A7%80%EC%97%90-ftp%EB%A1%9C-%EC%97%B0%EA%B2%B0%ED%95%B4%EC%84%9C-%EC%9E%91%EC%97%85%ED%95%98%EA%B8%B0/)
 <!-- BLOG-POST-LIST:END -->
 
   <br>
