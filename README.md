@@ -44,7 +44,17 @@
 
 <!-- waka time & git animal -------------------------------------------------------------------------------------------------------------------------------------------->
 <table>
-  <tr><td>
+  <tr>
+  <td>
+    <a href="https://wakatime.com/@zhyun"><picture><source
+    media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&theme=github_dark&custom_title=Waka%20Time%20⏰%20start%20date%20:%2024.01.03&hide_border=true&layout=compact"><source
+    media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&custom_title=Waka%20Time%20⏰%20start%20date%20:%2024.01.03&hide_border=true&layout=compact">
+    <img
+    alt="🔨-🥲rz 　 waka time"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&theme=github_dark&custom_title=Waka%20Time%20⏰%20start%20date%20:%2024.01.03&hide_border=true&layout=compact">  
+  </picture></a>
+  </td>
+    <td>
     <a href="https://github.com/git-goods/gitanimals"><img
     src="https://render.gitanimals.org/lines/zhyunk?pet-id=597095086959652253&contribution-view=false"
     width="420" height="250" alt="🔨-🥲rz　　"/></a>
@@ -56,15 +66,7 @@
     width="421" height="250" alt="🔨-🥲rz"/>    
   </picture></a>
   </td>
-  <td>
-    <a href="https://wakatime.com/@zhyun"><picture><source
-    media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&theme=github_dark&custom_title=Waka%20Time%20⏰%20start%20date%20:%2024.01.03&hide_border=true&layout=compact"><source
-    media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&custom_title=Waka%20Time%20⏰%20start%20date%20:%2024.01.03&hide_border=true&layout=compact">
-    <img
-    alt="🔨-🥲rz 　 waka time"
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=zhyun&theme=github_dark&custom_title=Waka%20Time%20⏰%20start%20date%20:%2024.01.03&hide_border=true&layout=compact">  
-  </picture></a>
-  </td></tr>
+  </tr>
 </table>
 
 
