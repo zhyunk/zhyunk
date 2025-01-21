@@ -42,8 +42,17 @@
 
 <br>
 
-<!-- most used top5 & waka time -------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- most used top5 & waka time & git animal -------------------------------------------------------------------------------------------------------------------------------------------->
 <div align="center">
+<a href="https://github.com/git-goods/gitanimals"><img
+  src="https://render.gitanimals.org/lines/zhyunk?pet-id=597095086959652253&contribution-view=false"
+  width="420" height="200" alt="🔨-🥲rz　　"/><picture><source
+  media="(prefers-color-scheme: dark)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=582154833054874760&contribution-view=false"><source
+  media="(prefers-color-scheme: light)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=583424627266567092&contribution-view=false"><img 
+  src="https://render.gitanimals.org/lines/zhyunk?pet-id=575068403528185932&contribution-view=false"
+  width="421" height="200" alt="🔨-🥲rz"/>    
+</picture></a>
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats"><picture><source
   media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&theme=github_dark&custom_title=Most%20Used%20Languages&layout=compact&hide_border=true&count_private=true&include_all_commits=true&langs_count=5&size_weight=0.2&count_weight=0.8&hide=scss,html,javascript,shell,ruby,css&card_width=300"><source
   media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhyunk&custom_title=Most%20Used%20Languages&layout=compact&hide_border=true&count_private=true&include_all_commits=true&langs_count=5&size_weight=0.2&count_weight=0.8&hide=scss,html,javascript,shell,ruby,css&card_width=300"><img
@@ -61,17 +70,8 @@
 
 <br>
 
-<!-- capsule-render & git animal -------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- capsule-render -------------------------------------------------------------------------------------------------------------------------------------------->
 <div align="center">
-<a href="https://github.com/git-goods/gitanimals"><img
-  src="https://render.gitanimals.org/lines/zhyunk?pet-id=597095086959652253&contribution-view=false"
-  width="420" height="200" alt="🔨-🥲rz　　"/><picture><source
-  media="(prefers-color-scheme: dark)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=582154833054874760&contribution-view=false"><source
-  media="(prefers-color-scheme: light)" srcset="https://render.gitanimals.org/lines/zhyunk?pet-id=583424627266567092&contribution-view=false"><img 
-  src="https://render.gitanimals.org/lines/zhyunk?pet-id=575068403528185932&contribution-view=false"
-  width="421" height="200" alt="🔨-🥲rz"/>    
-</picture></a>
-<br>
 <a href="https://github.com/kyechan99/capsule-render">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"  alt="🔨-🥲rz"/></a>
 </div>
