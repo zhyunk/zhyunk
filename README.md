@@ -20,11 +20,11 @@
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Vercel - Jekyll 인코딩 문제](https://study.zhyun.kim/posts/Vercel%EC%97%90%EC%84%9C-Jekyll-%EC%9D%B8%EC%BD%94%EB%94%A9-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0/)
+- [Ubuntu - 우분투 부팅시 Docker Compose 자동 실행하기](https://study.zhyun.kim/posts/Ubuntu%EC%97%90%EC%84%9C-systemd%EB%A1%9C-Docker-Compose-%EC%9E%90%EB%8F%99-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0/)
 - [Ubuntu Desktop - 데스크탑 아이콘 표시하기](https://study.zhyun.kim/posts/Ubuntu-Desktop-24.02-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%83%91-%EC%95%84%EC%9D%B4%EC%BD%98-%EC%84%A4%EC%A0%95-%EC%BC%9C%EA%B8%B0/)
 - [Ubuntu Server - 휴대용 외장 하드를 우분투 서버에서 사용하기](https://study.zhyun.kim/posts/%ED%9C%B4%EB%8C%80%EC%9A%A9-%EC%99%B8%EC%9E%A5-%ED%95%98%EB%93%9C%EB%A5%BC-%EC%9A%B0%EB%B6%84%ED%88%AC-%EC%84%9C%EB%B2%84%EC%97%90%EC%84%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
 - [Ubuntu - [FFmpeg] 동영상 인코딩 변환 HEVC&lpar;H.265&rpar; -&gt; H.264](https://study.zhyun.kim/posts/Ubuntu-FFmpeg-%EB%8F%99%EC%98%81%EC%83%81-%EC%9D%B8%EC%BD%94%EB%94%A9-HEVC(H.265)-H.264/)
-- [Spring Boot - Testcontainers로 MariaDB 테스트하기](https://study.zhyun.kim/posts/Spring-Boot-testcontainers%EB%A1%9C-mariadb-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EA%B8%B0/)
-- [Spring Boot - schema.sql, data.sql 실행 로그 출력](https://study.zhyun.kim/posts/Spring-Boot-print-logs-from-schema.sql,-data.sql/)
 <!-- BLOG-POST-LIST:END -->
 
   <br>
